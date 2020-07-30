@@ -152,32 +152,32 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Mergulho e Aventura",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Meu Canal no Youtube",
+        "url": "https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Batente das Agulhas I",
+          "url": "https://www.youtube.com/watch?v=JxXkd8C4QUU&t=7s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Batente das Agulhas II",
+          "url": "https://www.youtube.com/watch?v=cvHobTpKHpM&t=178s"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Run or Dye",
+          "url": "https://www.youtube.com/watch?v=_fPvAVxrOXI"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Trilha do Grilo",
+          "url": "https://www.youtube.com/watch?v=sKDLvlF6XqE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Trabalho de Geografia - Pedro",
+          "url": "https://www.youtube.com/watch?v=iObGxTf3fds&t=142s"
         }
       ]
     }
