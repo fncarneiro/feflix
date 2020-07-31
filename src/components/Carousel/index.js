@@ -24,6 +24,7 @@ function Carousel({
             </ExtraLink>
           }
         </>
+        
       )}
       <Slider>
         {videos.map((video, index) => {
