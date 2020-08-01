@@ -1,6 +1,36 @@
 {
   "categorias": [
     {
+      "titulo": "Mergulho e Aventura",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Meu Canal no Youtube",
+        "url": "https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg"
+      },
+      "videos": [
+        {
+          "titulo": "Batente das Agulhas I",
+          "url": "https://www.youtube.com/watch?v=JxXkd8C4QUU&t=7s"
+        },
+        {
+          "titulo": "Batente das Agulhas II",
+          "url": "https://www.youtube.com/watch?v=cvHobTpKHpM&t=178s"
+        },
+        {
+          "titulo": "Run or Dye",
+          "url": "https://www.youtube.com/watch?v=_fPvAVxrOXI"
+        },
+        {
+          "titulo": "Trilha do Grilo",
+          "url": "https://www.youtube.com/watch?v=sKDLvlF6XqE"
+        },
+        {
+          "titulo": "Trabalho de Geografia - Pedro",
+          "url": "https://www.youtube.com/watch?v=iObGxTf3fds&t=142s"
+        }
+      ]
+    },    
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -150,36 +180,6 @@
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
-    },
-    {
-      "titulo": "Mergulho e Aventura",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Meu Canal no Youtube",
-        "url": "https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg"
-      },
-      "videos": [
-        {
-          "titulo": "Batente das Agulhas I",
-          "url": "https://www.youtube.com/watch?v=JxXkd8C4QUU&t=7s"
-        },
-        {
-          "titulo": "Batente das Agulhas II",
-          "url": "https://www.youtube.com/watch?v=cvHobTpKHpM&t=178s"
-        },
-        {
-          "titulo": "Run or Dye",
-          "url": "https://www.youtube.com/watch?v=_fPvAVxrOXI"
-        },
-        {
-          "titulo": "Trilha do Grilo",
-          "url": "https://www.youtube.com/watch?v=sKDLvlF6XqE"
-        },
-        {
-          "titulo": "Trabalho de Geografia - Pedro",
-          "url": "https://www.youtube.com/watch?v=iObGxTf3fds&t=142s"
-        }
-      ]
-    }
+    }    
   ]
 }
