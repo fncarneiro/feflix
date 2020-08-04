@@ -12,6 +12,12 @@ function Menu() {
         <img className="Logo" src={Logo} alt="FeFlix logo" />
       </Link>
 
+      <p>
+        <a href="https://vitrine-imersao-react.vercel.app/">
+          Vitrine da Imersão React da Alura
+        </a>
+      </p> 
+      
       <Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo vídeo
       </Button>
