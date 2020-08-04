@@ -13,7 +13,7 @@ function CadastroVideo() {
   const categoryTitles = categorias.map(({ titulo }) => titulo);
   const { handleChange, values } = useForm({
     titulo: 'Video padrão',
-    url: 'https://www.youtube.com/watch?v=jOAU81jdi-c',
+    url: 'https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg',
     categoria: 'Front End',
   });
 
@@ -31,7 +31,7 @@ function CadastroVideo() {
 
       <form onSubmit={(event) => {
         event.preventDefault();
-        // alert('Video Cadastrado com sucesso!!!1!');
+         alert('Video Cadastrado com sucesso!!!!');
 
         const categoriaEscolhida = categorias.find((categoria) => {
           return categoria.titulo === values.categoria;

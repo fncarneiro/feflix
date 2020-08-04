@@ -52,7 +52,7 @@ function CadastroCategoria() {
     <PageDefault>
       <h1>
         Cadastro de Categoria:
-        {values.nome}
+        {values.titulo}
       </h1>
 
       <form onSubmit={function handleSubmit(infosDoEvento) {
@@ -67,9 +67,9 @@ function CadastroCategoria() {
       >
 
         <FormField
-          label="Nome da Categoria"
-          name="nome"
-          value={values.nome}
+          label="T[itulo da Categoria"
+          name="titulo"
+          value={values.titulo}
           onChange={handleChange}
         />
 
@@ -103,8 +103,8 @@ function CadastroCategoria() {
 
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
           </li>
         ))}
       </ul>
