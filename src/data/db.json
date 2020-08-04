@@ -3,7 +3,7 @@
       {
         "id": 1,
         "titulo": "Mergulho",
-        "cor": "#6BD1FF",
+        "cor": "#F33030",
         "link_extra": {
           "text": "Meu Canal no Youtube",
           "url": "https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg"
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "titulo": "Aventura",
-        "cor": "#6BD1FF",
+        "cor": "#EE5E11",
         "link_extra": {
           "text": "Meu Canal no Youtube",
           "url": "https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg"
@@ -26,12 +26,12 @@
       {
         "id": 4,
         "titulo": "Skate",
-        "cor": "orange"
+        "cor": "#1E9DC8"
       }, 
       {
         "id": 5,
         "titulo": "Outros Videos",
-        "cor": "#6BD1FF"
+        "cor": "#591EC8"
       }         
     ],
     "videos": [      
