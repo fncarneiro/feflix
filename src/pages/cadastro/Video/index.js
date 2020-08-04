@@ -14,7 +14,7 @@ function CadastroVideo() {
   const { handleChange, values } = useForm({
     titulo: 'Video padrão',
     url: 'https://www.youtube.com/channel/UCZ6sPdVBFTwfk7ADIj-rhcg',
-    categoria: 'Front End',
+    categoria: 'Mergulho',
   });
 
   useEffect(() => {
