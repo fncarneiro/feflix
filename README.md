@@ -17,7 +17,7 @@
 </p>
 
 > FeFlix
-> <img src="https://github.com/fncarneiro/feflix/blob/main/public/feflix.png" alt="FeFlix">  
+> <img src="https://github.com/fncarneiro/feflix/blob/master/public/feflix.png" alt="FeFlix">  
 
 <p>
  <a href="https://www.alura.com.br/">
