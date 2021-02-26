@@ -16,19 +16,17 @@
   </a>
 </p>
 
-> FeFlix
-> <img src="https://github.com/fncarneiro/feflix/blob/master/public/feflix.png" alt="FeFlix">  
+<a href="https://feflix.fncarneiro.vercel.app/"  target="_blank">
+  <img src="https://github.com/fncarneiro/feflix/blob/master/public/feflix.png" alt="FeFlix">  
+</a> 
 
 <p>
- <a href="https://www.alura.com.br/">
-  <img src="https://www.alura.com.br/assets/img/alura-logo-blue.1570550707.svg" class="page-image__logo__react" alt="Alura Logo">      
-      </a> 
-  </p>
-  <p>
+ <a href="https://www.alura.com.br/"  target="_blank">
+  <img src="https://www.alura.com.br/assets/img/alura-logo-blue.1570550707.svg" class="page-image__logo__react" alt="Alura Logo"> 
+  <br>
   Project developed during Alura React Immersion.
-  </p>
-
-
+ </a> 
+</p>
 
 ### 🏠 [Homepage](https://feflix.fncarneiro.vercel.app/)
 
